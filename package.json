@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "crypto-js": "^4.1.1"
+    "crypto-js": "^4.1.1",
+    "savjeecoin": "^1.0.1"
   }
 }
